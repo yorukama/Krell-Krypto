@@ -1,2 +1,2 @@
 # Krell-Krypto
- Crypto market watcher
+ Crypto market watcher using coin paprika api
